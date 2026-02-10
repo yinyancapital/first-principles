@@ -1,72 +1,80 @@
-## knowledge — first principles
+# knowledge — first principles
 
-### Start with the basic truths
-1. **Information exists in the world.**  
-2. **People can learn and understand information.**  
-3. **Understanding helps you make better choices.**
+## start with the basic truths
+i. **information exists everywhere.**  
+   but not all information is useful.
 
----
+ii. **knowledge is earned.**  
+   it grows through study, experience, and reflection.
 
-### What is knowledge (first principles)?
+iii. **knowledge shapes decisions.**  
+   better knowledge leads to better choices.
 
-**Knowledge = understood information you can use.**
-
-It is not just facts — it is **facts you can apply**.
-
-Examples:
-- Knowing how plants grow
-- Knowing why saving helps you invest
-- Knowing how to fix something
+iv. **unused knowledge fades.**  
+   if you don’t apply it, you lose it.
 
 ---
 
-### How knowledge connects to skills
+## what is knowledge (first principles)?
 
-- **Knowledge explains “why.”**
-- **Skills show “how.”**
+**knowledge** = **understanding that helps you make better decisions.**
 
-So:
-- **Knowledge guides skills.**
+it comes from:
 
----
-
-### How knowledge connects to time and capital
-
-- **Time** is used to learn.
-- **Knowledge becomes capital** because it helps you build better things.
+• learning  
+• experience  
+• reflection  
 
 ---
 
-### How knowledge connects to money
+## knowledge across key life resources
 
-- Knowledge helps you **earn** and **protect** money.
-- Knowing more helps you make **smarter trade-offs**.
+### time
+- **knowledge use** = planning and prioritizing well  
+- **knowledge loss** = repeating avoidable mistakes  
+
+### money
+- **knowledge use** = smarter spending and investing  
+- **knowledge loss** = costly ignorance  
+
+### skills
+- **knowledge use** = improving how you practice  
+- **knowledge loss** = training the wrong things  
+
+### tools
+- **knowledge use** = choosing the right tool  
+- **knowledge loss** = using the wrong tool  
+
+### relationships
+- **knowledge use** = understanding people better  
+- **knowledge loss** = miscommunication and conflict  
+
+### networks
+- **knowledge use** = navigating opportunities  
+- **knowledge loss** = missing key connections  
+
+### energy
+- **knowledge use** = focusing effort wisely  
+- **knowledge loss** = wasted effort  
+
+### health
+- **knowledge use** = habits that protect the body  
+- **knowledge loss** = preventable decline  
 
 ---
 
-### How knowledge connects to Yin and Yang
+## a simple example
 
-- **Yin** = learning, reading, reflecting  
-- **Yang** = applying, teaching, building  
+you want to get stronger:
+- you learn how muscles grow  
+- you train with the right plan  
 
-Both are needed:
-- **Yin fills the mind.**
-- **Yang turns it into action.**
-
----
-
-### Simple example
-
-You read about cooking:
-- **Learn** a recipe (Yin)  
-- **Cook** the meal (Yang)  
-
-Knowledge becomes real value.
+now knowledge turns effort into results.
 
 ---
 
-### First principles summary
+## first principles summary
 
-**Knowledge = understood information you can use.**  
-**Knowledge guides skills and becomes capital.**  
-**Balance (Yin + Yang) = learn + apply.**
+**knowledge = understanding that improves decisions.**  
+use it, and it compounds.  
+ignore it, and it disappears.
