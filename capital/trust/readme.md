@@ -56,4 +56,30 @@ it grows from:
 
 ### networks
 - **trust use** = strong referrals  
+- **trust loss** = weak introductions  
 
+### energy
+- **trust use** = less stress and more focus  
+- **trust loss** = constant defense  
+
+### health
+- **trust use** = supportive care  
+- **trust loss** = isolation  
+
+---
+
+## a simple example
+
+you’re on a team:
+- you finish tasks on time  
+- you communicate early when stuck  
+
+now your team relies on you without hesitation.
+
+---
+
+## first principles summary
+
+**trust = confidence in reliability and intent.**  
+build it patiently, and it multiplies.  
+break it, and everything slows.
