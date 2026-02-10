@@ -1,16 +1,16 @@
 # capital — first principles
 
 ## start with the basic truths
-i. **people want to build things.**  
+(i). **people want to build things.**  
    homes, businesses, ideas, and systems.
 
-ii. **building needs resources.**  
+(ii). **building needs resources.**  
    time, tools, money, skills, and energy.
 
-iii. **resources are limited.**  
+(iii). **resources are limited.**  
    so how you use them matters.
 
-iv. **growth comes from wise use.**  
+(iv). **growth comes from wise use.**  
    waste shrinks capital, smart use grows it.
 
 ---
@@ -22,17 +22,29 @@ iv. **growth comes from wise use.**
 it can be:
 
 (i). energy
+
 (ii). processes
+
 (iii). systems
+
 (iv). networks
+
 (v). relationships
+
 (vi). skills
+
 (vii). knowledge
+
 (viii). trust
+
 (ix). tools    
+
 (x). reputation
+
 (xi). time  
+
 (xii). health      
+
 (xiii). money   
 
 ---
