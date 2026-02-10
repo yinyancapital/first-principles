@@ -21,31 +21,19 @@
 
 it can be:
 
-(i). energy
-
-(ii). processes
-
-(iii). systems
-
-(iv). networks
-
-(v). relationships
-
-(vi). skills
-
-(vii). knowledge
-
-(viii). trust
-
-(ix). tools    
-
-(x). reputation
-
-(xi). time  
-
-(xii). health      
-
-(xiii). money   
+(i). [energy](./energy/README.md)  
+(ii). [processes](./processes/README.md)  
+(iii). [systems](./systems/README.md)  
+(iv). [networks](./networks/README.md)  
+(v). [relationships](./relationships/README.md)  
+(vi). [skills](./skills/README.md)  
+(vii). [knowledge](./knowledge/README.md)  
+(viii). [trust](./trust/README.md)  
+(ix). [tools](./tools/README.md)  
+(x). [reputation](./reputation/README.md)  
+(xi). [time](./time/README.md)  
+(xii). [health](./health/README.md)  
+(xiii). [money](./money/README.md)  
 
 ---
 
