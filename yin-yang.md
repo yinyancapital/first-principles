@@ -1,36 +1,74 @@
-## Yin and Yang — First Principles Explanation
+# yin and yang — first principles
 
-### Start with the basic truths
-1. **Everything changes.**  
-   Nothing stays the same forever.
-2. **Many things have two opposite parts.**  
-   Like day and night, hot and cold, quiet and loud.
-3. **Opposites are connected, not enemies.**  
-   You can’t have “up” without “down.”
-
----
-
-### So what is Yin and Yang?
-
-**Yin and Yang** is a way to explain how **opposites work together** to create balance.
-
-- **Yin** = the calm, dark, quiet, cool side  
-- **Yang** = the active, bright, loud, warm side  
-
-They are **different**, but they **depend on each other**.
+## start with the basic truths
+i. **everything changes.**  
+   nothing stays the same forever.
+   
+ii. **opposites exist in most systems.**  
+   like night/day, rest/work, saving/spending.
+   
+iii. **opposites depend on each other.**  
+   you can’t have one without the other.
+   
+iv. **balance creates stability and growth.**  
+   too much of one side causes imbalance.
 
 ---
 
-### A simple example
+## what is yin yang (first principles)?
 
-- **Day** is Yang  
-- **Night** is Yin  
+**yin yang** is a way to explain how **opposite forces work together** to create balance.
 
-You need both for a full day.
+- **yin** = calm, dark, slow, quiet, inward  
+- **yang** = active, bright, fast, loud, outward  
+
+they are **different**, but they **need each other**.
 
 ---
 
-### First principles summary
+## yin yang across key life resources
 
-**Yin and Yang = balance of opposite forces that need each other.**  
-It’s a basic idea that helps explain how the world stays in balance.
+### time
+- **yin** = rest, reflection, planning  
+- **yang** = action, execution, momentum  
+
+### money
+- **yin** = saving, patience, protection  
+- **yang** = spending, investing, growth  
+
+### skills
+- **yin** = practice, repetition, learning  
+- **yang** = performance, delivery, impact  
+
+### knowledge
+- **yin** = studying, thinking, absorbing  
+- **yang** = applying, teaching, building  
+
+### tools
+- **yin** = choosing, maintaining, preparing  
+- **yang** = using, producing, creating  
+
+### relationships
+- **yin** = listening, trust, loyalty  
+- **yang** = speaking, collaborating, leading  
+
+### networks
+- **yin** = staying connected, observing  
+- **yang** = contributing, expanding  
+
+---
+
+## a simple example
+
+- **day** is yang  
+- **night** is yin  
+
+you need both for a full day.
+
+---
+
+## first principles summary
+
+**yin yang = balance of opposite forces that depend on each other.**  
+When you apply that idea to time, money, skills, and relationships,  
+you get **balance that leads to growth**.
