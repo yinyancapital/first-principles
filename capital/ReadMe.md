@@ -1,0 +1,110 @@
+# capital — first principles
+
+## start with the basic truths
+i. **people want to build things.**  
+   homes, businesses, ideas, and systems.
+
+ii. **building needs resources.**  
+   time, tools, money, skills, and energy.
+
+iii. **resources are limited.**  
+   so how you use them matters.
+
+iv. **growth comes from wise use.**  
+   waste shrinks capital, smart use grows it.
+
+---
+
+## what is capital (first principles)?
+
+**capital** = **resources used to build or grow something.**
+
+it can be:
+
+• money  
+• time  
+• tools  
+• skills  
+• knowledge  
+• relationships  
+• networks  
+• energy  
+• health  
+• systems  
+• processes  
+• trust  
+• reputation  
+
+---
+
+## capital across key life resources
+
+### time
+- **capital use** = learning, building, creating  
+- **capital loss** = delay, drift, waste  
+
+### money
+- **capital use** = investing in growth  
+- **capital loss** = spending without return  
+
+### skills
+- **capital use** = improving ability to create value  
+- **capital loss** = letting skills decay  
+
+### knowledge
+- **capital use** = making smarter choices  
+- **capital loss** = ignoring what you know  
+
+### tools
+- **capital use** = multiplying effort  
+- **capital loss** = unused or broken tools  
+
+### relationships
+- **capital use** = trust, cooperation, support  
+- **capital loss** = conflict, isolation  
+
+### networks
+- **capital use** = access to opportunities  
+- **capital loss** = weak or inactive connections  
+
+### energy
+- **capital use** = focused effort and momentum  
+- **capital loss** = exhaustion and burnout  
+
+### health
+- **capital use** = strength to work and recover  
+- **capital loss** = neglect and sickness  
+
+### systems
+- **capital use** = repeatable success  
+- **capital loss** = chaos and inconsistency  
+
+### processes
+- **capital use** = smooth execution  
+- **capital loss** = friction and errors  
+
+### trust
+- **capital use** = faster collaboration  
+- **capital loss** = doubt and delay  
+
+### reputation
+- **capital use** = credibility and opportunity  
+- **capital loss** = broken promises  
+
+---
+
+## a simple example
+
+you have **$10** and **1 hour**:
+- save $5, invest $5  
+- learn for 30 minutes, build for 30 minutes  
+
+now your capital grows instead of shrinks.
+
+---
+
+## first principles summary
+
+**capital = resources used to build.**  
+use them well, and they grow.  
+use them poorly, and they shrink.
