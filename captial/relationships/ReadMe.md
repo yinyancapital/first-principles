@@ -1,4 +1,3 @@
-
 # relationships — first principles
 
 ## start with the basic truths
@@ -66,11 +65,11 @@ they provide:
 
 ## a simple example
 
-you want to keep a close friend:
-- check in regularly  
-- listen when they speak  
+you’re working on a hard project:
+- you ask a friend for honest feedback  
+- you listen and improve your approach  
 
-now trust stays strong.
+now the relationship creates clarity and better outcomes.
 
 ---
 
