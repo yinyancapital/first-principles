@@ -46,14 +46,15 @@ they are the foundation beneath all explanations.
 
 ## a simple example
 
-question: *why is a chair strong?*
+question: *why does a small daily habit beat big bursts of effort?*
 
 first principles:
-- it must hold weight  
-- weight travels through legs  
-- legs need solid material  
+- outcomes come from repeated actions  
+- repeated actions are easier when they are small  
+- small actions lower resistance  
+- lower resistance makes consistency possible  
 
-so you choose strong legs and stable joints.
+so small habits win because they make consistency easy.
 
 ---
 
