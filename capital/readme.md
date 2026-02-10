@@ -95,11 +95,12 @@ it can be:
 
 ## a simple example
 
-you have **$10** and **1 hour**:
-- save $5, invest $5  
-- learn for 30 minutes, build for 30 minutes  
+you run a small service:
+- reinvest part of profit into better tools  
+- document your process to save time  
+- keep promises so people refer you  
 
-now your capital grows instead of shrinks.
+now money, systems, and trust compound into stronger capital.
 
 ---
 
