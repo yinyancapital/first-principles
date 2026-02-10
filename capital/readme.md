@@ -21,19 +21,19 @@ iv. **growth comes from wise use.**
 
 it can be:
 
-• money  
-• time  
-• tools  
-• skills  
-• knowledge  
-• relationships  
-• networks  
-• energy  
-• health  
-• systems  
-• processes  
-• trust  
-• reputation  
+(i). energy
+(ii). processes
+(iii). systems
+(iv). networks
+(v). relationships
+(vi). skills
+(vii). knowledge
+(viii). trust
+(ix). tools    
+(x). reputation
+(xi). time  
+(xii). health      
+(xiii). money   
 
 ---
 
