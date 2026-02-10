@@ -66,10 +66,11 @@ it helps with:
 ## a simple example
 
 you earn **$10**:
-- save $5  
-- spend $5 on tools  
+- save $3  
+- spend $2 on learning  
+- spend $5 on a tool  
 
-now money becomes capital.
+now money becomes capacity, not just spending.
 
 ---
 
