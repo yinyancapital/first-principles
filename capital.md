@@ -1,4 +1,4 @@
-## Capital — First Principles
+## capital — first principles
 
 ### Start with the basic truths
 1. **People want to build things.**  
