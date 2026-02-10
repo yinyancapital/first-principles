@@ -21,7 +21,7 @@
 
 it can be:
 
-(i). [energy](./energy/readme.md)  
+(i). [energy]("./capital/(i).%Senergy")  
 (ii). [processes](./processes/README.md)  
 (iii). [systems](./systems/README.md)  
 (iv). [networks](./networks/README.md)  
