@@ -65,11 +65,12 @@ it gives you:
 
 ## a simple example
 
-you have **1 hour**:
-- plan for 30 minutes  
-- act for 30 minutes  
+you have **1 hour each day**:
+- read 20 minutes  
+- reflect 10 minutes  
+- act 30 minutes  
 
-now time creates progress.
+in one month, you’ve built knowledge, clarity, and progress.
 
 ---
 
