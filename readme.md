@@ -1,4 +1,4 @@
-# first principles — as a concept
+# first principles.
 
 ## start with the basic truths
 i. **complex things are built from simple parts.**  
