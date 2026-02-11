@@ -1,4 +1,4 @@
-# purpose — from first principles
+# purpose
 
 ## start with the basic truths
 i. **actions need direction.**  
