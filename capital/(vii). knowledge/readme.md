@@ -1,4 +1,4 @@
-# knowledge — first principles
+# knowledge.
 
 ## start with the basic truths
 i. **information exists everywhere.**  
