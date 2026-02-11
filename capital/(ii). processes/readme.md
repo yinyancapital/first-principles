@@ -1,5 +1,5 @@
 
-# processes — first principles
+# processes.
 
 ## start with the basic truths
 i. **results come from repeated actions.**  
