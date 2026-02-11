@@ -20,6 +20,7 @@ iv. **where you place energy shapes outcomes.**
 **energy** = **the capacity to act, focus, and sustain effort.**
 
 it comes from:
+
 • rest  
 • nutrition  
 • movement  
