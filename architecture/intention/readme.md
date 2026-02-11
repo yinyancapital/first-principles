@@ -1,4 +1,4 @@
-# intention — from first principles
+# intention.
 
 ## start with the basic truths
 i. **choice precedes action.**  
