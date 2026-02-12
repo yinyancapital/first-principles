@@ -1,4 +1,5 @@
 # philosophy.
+the fundamental root of all thinking. `the love of wisdom.`
 
 ## start with the basic truths
 i. **humans seek meaning.**  
