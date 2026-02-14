@@ -15,7 +15,7 @@ iv. **movement comes from their interplay.**
 
 ---
 
-## what are yin & yang (first principles)?
+## what is yin yang?
 
 **yin & yang** = **paired forces that create balance in a system.**
 
