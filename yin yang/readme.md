@@ -17,7 +17,7 @@ iv. **movement comes from their interplay.**
 
 ## what is yin yang?
 
-**yin & yang** = **paired forces that create balance in a system.**
+**yin yang** = **paired forces that create balance in a system.**
 
 yin is:
 
@@ -33,7 +33,7 @@ yang is:
 
 ---
 
-## yin & yang across key life resources
+## yin yang across key life resources
 
 ### time
 - **yin** = rest and reflection  
@@ -85,5 +85,5 @@ now balance sustains momentum.
 
 ## first principles summary
 
-**yin & yang = balanced forces that sustain movement and growth.**  
+**yin yang = balanced forces that sustain movement and growth.**  
 honor both, and the system thrives.
