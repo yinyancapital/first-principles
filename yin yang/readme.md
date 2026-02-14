@@ -1,4 +1,4 @@
-# yin & yang — first principles
+# yin yang
 
 ## start with the basic truths
 i. **all systems have opposing forces.**  
