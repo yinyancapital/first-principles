@@ -17,8 +17,8 @@ iv. **format guides response structure.**
 
 ## what is a prompt?
 
-**prompt** = **the structured input (instruction, context, and constraints) that directs an ai model's output.**  
-it is task design through language.
+**prompt** = **the structured input (instruction, context, and constraints) that directs an ai model's [response](../response/readme.md).**  
+it is task design through [language](../language/readme.md).
 
 ---
 
