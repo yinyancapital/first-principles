@@ -4,21 +4,21 @@
 i. **minds receive raw signals.**  
    perception, memory, and data are the raw inputs.
 
-ii. **brains compress reality.**  
-   they look for patterns and reduce complexity.
+ii. **brains compress [reality](./reality/readme.md).**  
+   they look for [pattern](./pattern/readme.md)s and reduce complexity.
 
-iii. **patterns become models.**  
+iii. **[pattern](./pattern/readme.md)s become [model](./model/readme.md)s.**  
    the mind stores compressed patterns as usable units.
 
-iv. **models guide action.**  
+iv. **[model](./model/readme.md)s guide action.**  
    what you can model, you can predict, choose, or build.
 
 ---
 
 ## what is an idea?
 
-**an idea** = **a compressed, manipulable model of reality (or possibility).**  
-it is a pattern you can hold, reuse, and reshape.
+**an idea** = **a compressed, manipulable [model](./model/readme.md) of [reality](./reality/readme.md) (or possibility).**  
+it is a [pattern](./pattern/readme.md) you can hold, reuse, and reshape.
 
 ---
 
@@ -35,6 +35,14 @@ it is a pattern you can hold, reuse, and reshape.
 
 4. **apply or combine**  
    the unit can be tested, shared, or remixed.
+
+
+## idea building blocks
+
+- [reality](./reality/readme.md)  
+- [mind](./mind/readme.md)  
+- [pattern](./pattern/readme.md)  
+- [model](./model/readme.md)  
 
 ---
 
