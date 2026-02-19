@@ -36,6 +36,14 @@ it is automated reasoning in hardware.
 4. **produce results**  
    output new information or action.
 
+
+## key branches
+
+- [input](./input/readme.md)  
+- [science](./science/readme.md)  
+- [engineering](./engineering/readme.md)  
+- [ai](./ai/readme.md)  
+
 ---
 
 ## why computers matter
