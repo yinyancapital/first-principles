@@ -43,6 +43,8 @@ it is inquiry with rigor.
 - [truth](./truth/readme.md)  
 - [meaning](./meaning/readme.md)  
 - [purpose](./purpose/readme.md)  
+- [character](./character/readme.md)  
+- [change](./change/readme.md)  
 
 ---
 
