@@ -18,7 +18,7 @@ iv. **form must hold function.**
 ## what is architecture?
 
 **architecture** = **the deliberate organization of parts, relationships, and constraints to serve a purpose.**  
-it is structure with intention.
+it is [structure](./structure/readme.md) with [intention](./intention/readme.md).
 
 ---
 
@@ -38,6 +38,13 @@ it is structure with intention.
 
 5. **create coherence**  
    the whole becomes usable, durable, and clear.
+
+
+## architecture building blocks
+
+- [intention](./intention/readme.md)  
+- [plan](./plan/readme.md)  
+- [structure](./structure/readme.md)  
 
 ---
 
