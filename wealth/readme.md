@@ -17,7 +17,7 @@ iv. **stability reduces risk.**
 
 ## what is wealth?
 
-**wealth** = **stored and controllable value that expands choices over time.**  
+**wealth** = **stored and [control](./control/readme.md)lable [value](./value/readme.md) that expands choices over time.**  
 it is durable capacity to act.
 
 ---
@@ -35,6 +35,17 @@ it is durable capacity to act.
 
 4. **protect and compound**  
    reduce loss and let time build more value.
+
+
+## wealth building blocks
+
+- [resource](./resource/readme.md)  
+- [value](./value/readme.md)  
+- [asset](./asset/readme.md)  
+- [stock](./stock/readme.md)  
+- [control](./control/readme.md)  
+- [choice](./choice/readme.md)  
+- [time](./time/readme.md)  
 
 ---
 

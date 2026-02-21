@@ -33,6 +33,17 @@ they are the foundation beneath all explanations.
 3. **build upward**  
    recombine the truths into a new, clearer model.
 
+
+## core branches
+
+- [soul](./soul.md)  
+- [architecture](./architecture/readme.md)  
+- [capital](./capital/readme.md)  
+- [wealth](./wealth/readme.md)  
+- [philosophy](./philosophy/readme.md)  
+- [idea](./idea/readme.md)  
+- [yin yang](./yin%20yang/readme.md)  
+
 ---
 
 ## why first principles matter
