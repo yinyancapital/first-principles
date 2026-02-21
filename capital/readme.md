@@ -5,7 +5,7 @@
    homes, businesses, ideas, and systems.
 
 (ii). **building needs resources.**  
-   time, tools, money, skills, and energy.
+   [time](./%28xi%29.%20time/readme.md), [tools](./%28ix%29.%20tools/readme.md), [money](./%28xiii%29.%20money/readme.md), [skills](./%28vi%29.%20skills/readme.md), and [energy](./%28i%29.%20energy/readme.md).
 
 (iii). **resources are limited.**  
    so how you use them matters.
@@ -21,19 +21,19 @@
 
 it can be:
 
-(i). [energy]("./capital/(i).%Senergy")  
-(ii). [processes](./processes/README.md)  
-(iii). [systems](./systems/README.md)  
-(iv). [networks](./networks/README.md)  
-(v). [relationships](./relationships/README.md)  
-(vi). [skills](./skills/README.md)  
-(vii). [knowledge](./knowledge/README.md)  
-(viii). [trust](./trust/README.md)  
-(ix). [tools](./tools/README.md)  
-(x). [reputation](./reputation/README.md)  
-(xi). [time](./time/README.md)  
-(xii). [health](./health/README.md)  
-(xiii). [money](./money/README.md)  
+(i). [energy](./%28i%29.%20energy/readme.md)  
+(ii). [processes](./%28ii%29.%20processes/readme.md)  
+(iii). [systems](./%28iii%29.%20systems/readme.md)  
+(iv). [networks](./%28iv%29.%20networks/readme.md)  
+(v). [relationships](./%28v%29.%20relationships/readme.md)  
+(vi). [skills](./%28vi%29.%20skills/readme.md)  
+(vii). [knowledge](./%28vii%29.%20knowledge/readme.md)  
+(viii). [trust](./%28viii%29.%20trust/readme.md)  
+(ix). [tools](./%28ix%29.%20tools/readme.md)  
+(x). [reputation](./%28x%29.%20reputation/readme.md)  
+(xi). [time](./%28xi%29.%20time/readme.md)  
+(xii). [health](./%28xii%29.%20health/readme.md)  
+(xiii). [money](./%28xiii%29.%20money/readme.md)  
 
 ---
 
