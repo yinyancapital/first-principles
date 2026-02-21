@@ -19,17 +19,23 @@ iv. **movement comes from their interplay.**
 
 **yin yang** = **paired forces that create balance in a system.**
 
-yin is:
+[yin](./yin/readme.md) is:
 
 • receptive  
 • quiet  
 • stabilizing  
 
-yang is:
+[yang](./yang/readme.md) is:
 
 • active  
 • outward  
 • energizing  
+
+
+## yin yang building blocks
+
+- [yin](./yin/readme.md)  
+- [yang](./yang/readme.md)  
 
 ---
 
