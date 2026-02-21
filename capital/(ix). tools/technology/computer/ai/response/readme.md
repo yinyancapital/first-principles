@@ -2,7 +2,7 @@
 
 ## start with the basic truths
 i. **outputs are selected predictions.**  
-   responses come from choosing probable next [token](../prompt/token/readme.md) units under constraints.
+   responses come from choosing probable next [token](../token/readme.md) units under constraints.
 
 ii. **quality depends on objective fit.**  
    a good response matches the requested task.
@@ -18,7 +18,7 @@ iv. **utility is judged by actionability.**
 ## what is a response?
 
 **response** = **the model-generated output produced from a [prompt](../prompt/readme.md), intended to satisfy the user's objective within given constraints.**  
-it is predicted [language](../prompt/language/readme.md) shaped for usefulness.
+it is predicted [language](../language/readme.md) shaped for usefulness.
 
 ---
 

@@ -1,23 +1,23 @@
 # soul.
 
 ## start with the basic truths
-i. **[life](./philosophy/life/readme.md) can be measured, but not exhausted by measurement.**  
+i. **life can be measured, but not exhausted by measurement.**  
    data can describe behavior, but not the whole interior meaning of a being.
 
-ii. **[identity](./philosophy/identity/readme.md) persists through change.**  
+ii. **identity persists through change.**  
    thoughts, roles, and seasons shift; something deeper carries continuity.
 
-iii. **[value](./wealth/value/readme.md) is felt before it is formalized.**  
+iii. **value is felt before it is formalized.**  
    dignity, love, grief, and awe are known directly, then explained later.
 
-iv. **[direction](./philosophy/direction/readme.md) requires an inner center.**  
+iv. **direction requires an inner center.**  
    without a core, power expands but purpose collapses.
 
 ---
 
 ## what is soul?
 
-**soul** = **the irreducible inner center of [identity](./philosophy/identity/readme.md), [value](./wealth/value/readme.md), and [direction](./philosophy/direction/readme.md) from which meaning, [conscience](./philosophy/conscience/readme.md), and commitment arise.**  
+**soul** = **the irreducible inner center of identity, value, and direction from which meaning, conscience, and commitment arise.**  
 it is the deepest continuity of a person across time.
 
 ---
@@ -27,7 +27,7 @@ it is the deepest continuity of a person across time.
 1. **through attention**  
    what you repeatedly honor reveals what you are becoming.
 
-2. **through [conscience](./philosophy/conscience/readme.md)**  
+2. **through conscience**  
    an inner signal distinguishes alignment from betrayal.
 
 3. **through commitment**  
@@ -38,15 +38,6 @@ it is the deepest continuity of a person across time.
 
 5. **through service and creation**  
    inner depth becomes outer contribution.
-
-
-## soul building blocks
-
-- [life](./philosophy/life/readme.md)  
-- [identity](./philosophy/identity/readme.md)  
-- [value](./wealth/value/readme.md)  
-- [direction](./philosophy/direction/readme.md)  
-- [conscience](./philosophy/conscience/readme.md)  
 
 ---
 
@@ -84,5 +75,5 @@ so the difference is soul: **not only what was built, but who was formed while b
 
 ## soul summary
 
-**soul = inner [identity](./philosophy/identity/readme.md) + [conscience](./philosophy/conscience/readme.md) + [direction](./philosophy/direction/readme.md) → meaningful [life](./philosophy/life/readme.md) and meaningful work.**  
+**soul = inner identity + conscience + direction → meaningful life and meaningful work.**  
 when the center is clear, everything built around it gains coherence.
