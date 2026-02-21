@@ -1,13 +1,16 @@
 # first principles.
 
+A simple map for understanding complex life systems.
+
 ## start with the basic truths
+
 i. **complex things are built from simple parts.**  
    to understand a system, find its smallest pieces.
 
 ii. **assumptions can hide reality.**  
    inherited ideas may be wrong or incomplete.
 
-iii. **truth is discovered by asking “why.”**  
+iii. **truth is discovered by asking "why."**  
    deep questions reveal deeper structure.
 
 iv. **clarity creates better decisions.**  
@@ -28,20 +31,37 @@ they are the foundation beneath all explanations.
    reduce a problem to its simplest parts.
 
 2. **test each part**  
-   ask “is this true?” not “is this common?”
+   ask "is this true?" not "is this common?"
 
 3. **build upward**  
    recombine the truths into a new, clearer model.
 
+---
 
-## core branches
+## read this project from beginning to end
 
-- [architecture](./architecture/readme.md)  
-- [capital](./capital/readme.md)  
-- [wealth](./wealth/readme.md)  
-- [philosophy](./philosophy/readme.md)  
-- [idea](./idea/readme.md)  
-- [yin yang](./yin%20yang/readme.md)  
+1. **[philosophy](./philosophy/readme.md)** — how to think clearly and test meaning.  
+2. **[idea](./idea/readme.md)** — how mind turns reality into models.  
+3. **[architecture](./architecture/readme.md)** — how to organize parts with intention.  
+4. **[capital](./capital/readme.md)** — the resources that make building possible.  
+5. **[wealth](./wealth/readme.md)** — how value is stored, protected, and compounded.  
+6. **[yin yang](./yin%20yang/readme.md)** — balancing opposing forces for sustainability.
+
+This order gives context first, then action, then compounding.
+
+---
+
+## meaning optimization (simple version)
+
+Use these filters while reading any page in this repo:
+
+- **define** the term in one plain sentence.
+- **reduce** the idea to 3–4 non-negotiable truths.
+- **connect** each truth to a practical action.
+- **test** with one everyday example.
+- **summarize** in one short formula.
+
+If a section cannot pass these filters, simplify it again.
 
 ---
 
@@ -62,7 +82,7 @@ first principles:
 - outcomes come from repeated actions  
 - repeated actions are easier when they are small  
 - small actions lower resistance  
-- lower resistance makes consistency possible  
+- lower resistance makes consistency possible
 
 so small habits win because they make consistency easy.
 
