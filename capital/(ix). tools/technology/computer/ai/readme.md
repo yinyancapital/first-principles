@@ -10,7 +10,7 @@ ii. **learning changes behavior.**
 iii. **goals require prediction.**  
    useful action depends on estimating what happens next.
 
-iv. **[language](./prompt/language/readme.md) can coordinate reasoning.**  
+iv. **[language](./language/readme.md) can coordinate reasoning.**  
    structured symbols let systems receive instructions and return useful outputs.
 
 ---
@@ -45,8 +45,8 @@ it is statistical intelligence applied to tasks.
 
 key concepts:
 
-- [language](./prompt/language/readme.md)  
-- [token](./prompt/token/readme.md)  
+- [language](./language/readme.md)  
+- [token](./token/readme.md)  
 - [prompt](./prompt/readme.md)  
 - [response](./response/readme.md)  
 
@@ -56,7 +56,7 @@ for language systems, the core loop is:
    the instruction/context given to the model.
 
 2. internal pattern matching and prediction  
-   the model estimates likely next [token](./prompt/token/readme.md) units based on learned structure.
+   the model estimates likely next [token](./token/readme.md) units based on learned structure.
 
 3. [response](./response/readme.md)  
    generated output intended to satisfy the prompt objective.

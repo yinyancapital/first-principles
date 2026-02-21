@@ -36,7 +36,6 @@ they are the foundation beneath all explanations.
 
 ## core branches
 
-- [soul](./soul.md)  
 - [architecture](./architecture/readme.md)  
 - [capital](./capital/readme.md)  
 - [wealth](./wealth/readme.md)  
