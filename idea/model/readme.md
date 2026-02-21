@@ -4,10 +4,10 @@
 i. **reality is too complex to hold in full.**  
    minds and systems need simplification.
 
-ii. **[abstraction](./abstract/readme.md) preserves useful structure.**  
+ii. **abstraction preserves useful structure.**  
    a good simplification keeps what matters.
 
-iii. **[prediction](./predict/readme.md) tests quality.**  
+iii. **prediction tests quality.**  
    models prove value by forecasting outcomes.
 
 iv. **feedback updates fit.**  
@@ -17,7 +17,7 @@ iv. **feedback updates fit.**
 
 ## what is a model?
 
-**model** = **a simplified representation of reality used to explain, [predict](./predict/readme.md), or decide.**  
+**model** = **a simplified representation of reality used to explain, predict, or decide.**  
 it is a usable map, not the territory.
 
 ---
@@ -38,12 +38,6 @@ it is a usable map, not the territory.
 
 5. **refine continuously**  
    adjust assumptions as evidence grows.
-
-
-## model building blocks
-
-- [abstract](./abstract/readme.md)  
-- [predict](./predict/readme.md)  
 
 ---
 

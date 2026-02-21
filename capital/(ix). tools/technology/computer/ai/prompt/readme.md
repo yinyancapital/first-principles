@@ -18,7 +18,7 @@ iv. **format guides response structure.**
 ## what is a prompt?
 
 **prompt** = **the structured input (instruction, context, and constraints) that directs an ai model's [response](../response/readme.md).**  
-it is task design through [language](./language/readme.md).
+it is task design through [language](../language/readme.md).
 
 ---
 
@@ -38,12 +38,6 @@ it is task design through [language](./language/readme.md).
 
 5. **iterate with feedback**  
    refine wording based on output quality.
-
-
-## prompt building blocks
-
-- [language](./language/readme.md)  
-- [token](./token/readme.md)  
 
 ---
 

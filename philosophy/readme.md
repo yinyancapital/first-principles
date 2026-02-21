@@ -43,12 +43,6 @@ it is inquiry with rigor.
 - [truth](./truth/readme.md)  
 - [meaning](./meaning/readme.md)  
 - [purpose](./purpose/readme.md)  
-- [identity](./identity/readme.md)  
-- [direction](./direction/readme.md)  
-- [life](./life/readme.md)  
-- [conscience](./conscience/readme.md)  
-- [consciousness](./consciousness/readme.md)  
-- [infinity](./infinity/readme.md)  
 
 ---
 
