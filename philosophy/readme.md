@@ -18,7 +18,7 @@ iv. **reason can refine belief.**
 
 ## what is philosophy?
 
-**philosophy** = **the disciplined search for truth, meaning, and the principles that govern thought and reality.**  
+**philosophy** = **the disciplined search for [truth](./truth/readme.md), [meaning](./meaning/readme.md), and the principles that govern thought and reality.**  
 it is inquiry with rigor.
 
 ---
@@ -36,6 +36,19 @@ it is inquiry with rigor.
 
 4. **refine or rebuild**  
    keep what holds, discard what fails.
+
+
+## philosophy building blocks
+
+- [truth](./truth/readme.md)  
+- [meaning](./meaning/readme.md)  
+- [purpose](./purpose/readme.md)  
+- [identity](./identity/readme.md)  
+- [direction](./direction/readme.md)  
+- [life](./life/readme.md)  
+- [conscience](./conscience/readme.md)  
+- [consciousness](./consciousness/readme.md)  
+- [infinity](./infinity/readme.md)  
 
 ---
 
