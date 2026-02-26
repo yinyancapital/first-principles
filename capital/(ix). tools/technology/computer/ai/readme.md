@@ -49,6 +49,7 @@ key concepts:
 - [token](./token/readme.md)  
 - [prompt](./prompt/readme.md)  
 - [response](./response/readme.md)  
+- [agent](./agent/readme.md)  
 
 for language systems, the core loop is:
 
