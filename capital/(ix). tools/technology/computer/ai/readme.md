@@ -50,6 +50,9 @@ key concepts:
 - [prompt](./prompt/readme.md)  
 - [response](./response/readme.md)  
 - [agent](./agent/readme.md)  
+- [sub-agent](./sub-agent/readme.md)  
+- [context window](./context-window/readme.md)  
+- [hallucination](./hallucination/readme.md)  
 
 for language systems, the core loop is:
 
