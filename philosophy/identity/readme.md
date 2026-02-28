@@ -41,6 +41,12 @@ it is continuity with character.
 
 ---
 
+
+## identity language
+
+- [i am](./i-am/readme.md)
+
+---
 ## why identity matters
 
 - it **stabilizes decision-making**  
