@@ -45,6 +45,19 @@ it is statistical intelligence applied to tasks.
 
 key concepts:
 
+- [transformer](./transformer/readme.md)
+- [attention](./attention/readme.md)
+- [embedding](./embedding/readme.md)
+- [parameter](./parameter/readme.md)
+- [pretraining](./pretraining/readme.md)
+- [fine-tuning](./fine-tuning/readme.md)
+- [inference](./inference/readme.md)
+- [loss function](./loss-function/readme.md)
+- [gradient descent](./gradient-descent/readme.md)
+- [temperature](./temperature/readme.md)
+- [alignment](./alignment/readme.md)
+- [rlhf (reinforcement learning from human feedback)](./rlhf/readme.md)
+- [rag (retrieval-augmented generation)](./rag/readme.md)
 - [language](./language/readme.md)  
 - [token](./token/readme.md)  
 - [prompt](./prompt/readme.md)  
