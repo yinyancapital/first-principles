@@ -27,6 +27,17 @@ it comes from:
 
 ---
 
+
+## key knowledge domains
+
+- [microeconomics](./microeconomics/readme.md)  
+- [game theory](./game-theory/readme.md)  
+- [psychology](./psychology/readme.md)  
+- [persuasion](./persuasion/readme.md)  
+- [mathematics](./mathematics/readme.md)  
+
+---
+
 ## knowledge across key life resources
 
 ### time

@@ -27,6 +27,13 @@ they provide:
 
 ---
 
+
+## deeper systems lens
+
+- [systems thinking](./systems-thinking/readme.md)
+
+---
+
 ## systems across key life resources
 
 ### time
