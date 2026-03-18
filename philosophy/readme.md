@@ -42,6 +42,7 @@ it is inquiry with rigor.
 
 - [truth](./truth/readme.md)  
 - [meaning](./meaning/readme.md)  
+- [love](./love/readme.md)
 - [context](./context/readme.md)  
 - [think](./think/readme.md)  
 - [purpose](./purpose/readme.md)  
