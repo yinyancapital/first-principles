@@ -40,12 +40,12 @@ they are the foundation beneath all explanations.
 
 ## read this project from beginning to end
 
-1. **[philosophy](./philosophy/readme.md)** — how to think clearly and test meaning.  
-2. **[idea](./idea/readme.md)** — how mind turns reality into models.  
-3. **[architecture](./architecture/readme.md)** — how to organize parts with intention.  
-4. **[capital](./capital/readme.md)** — the resources that make building possible.  
-5. **[wealth](./wealth/readme.md)** — how value is stored, protected, and compounded.  
-6. **[yin yang](./yin%20yang/readme.md)** — balancing opposing forces for sustainability.
+1. **[philosophy](%28i%29.%20philosophy/readme.md)** — how to think clearly and test meaning.  
+2. **[idea](%28ii%29.%20idea/readme.md)** — how mind turns reality into models.  
+3. **[architecture](%28iii%29.%20architecture/readme.md)** — how to organize parts with intention.  
+4. **[capital](%28iv%29.%20capital/readme.md)** — the resources that make building possible.  
+5. **[wealth](%28v%29.%20wealth/readme.md)** — how value is stored, protected, and compounded.  
+6. **[yin yang](%28vi%29.%20yin%20yang/readme.md)** — balancing opposing forces for sustainability.
 
 This order gives context first, then action, then compounding.
 
